@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import classes from "./MainHeader.module.css";
-// Link is needed to avoid sending a new request every time ehen we want to navigate to another page
+// Link is needed to avoid sending a new request every time when we want to navigate to another page
 
 const MainHeader = () => {
   return (
